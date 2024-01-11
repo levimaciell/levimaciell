@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'm Levi, i am 20 years old and i like to code : )<br>- 📚 I'm studying information systems at Universidade Federal of Paraíba<br>- 📚 I'm currently learning Spring Boot</p>
+<p align="left">I'm Levi, i am 20 years old and i like to code : )<br>- 📚 I'm studying information systems at Universidade Federal of Paraíba<br>- 📚 I'm currently learning Spring Boot<br>- 👀I'm interested in backend and fullstack development</p>
 
 ###
 
